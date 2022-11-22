@@ -21,4 +21,4 @@
 
 ### You can reach me at
 - [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
-- [Researchgate](https://www.researchgate.net/profile/Erik-Lautenschlaeger)
+- [ResearchGate](https://www.researchgate.net/profile/Erik-Lautenschlaeger)
