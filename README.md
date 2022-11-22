@@ -6,9 +6,8 @@
 - edge computing
 - electronics & microcontroller
 - computer vision & image processing
-- automation & everything as code
+- everything as code
 - Linux
-- Open Source
 
 ### I am currently working on
 - a control system for my quadcopter testbench with [dRehmFlight](https://github.com/eriklautenschlaeger/dRehmFlight) - next step is GPS denied flight
