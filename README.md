@@ -8,10 +8,12 @@
 - computer vision & image processing
 - automation & everything as code
 - Linux
+- Open Source
 
 ### I am currently working on
 - a control system for my quadcopter testbench with [dRehmFlight](https://github.com/eriklautenschlaeger/dRehmFlight) - next step is GPS denied flight
 - setting up a hexacopter workbench with [px4](https://docs.px4.io/main/en/) to dabble around with mission control software
+- a paper on test driven development in machine learning for [IOTBDS](https://iotbds.scitevents.org/]
 - getting my ham radio license :-)
 
 ### At the moment I am looking into
@@ -21,4 +23,3 @@
 ### You can reach me at
 - [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
 - [Researchgate](https://www.researchgate.net/profile/Erik-Lautenschlaeger)
-- Discord: thatsnomoon#3350
