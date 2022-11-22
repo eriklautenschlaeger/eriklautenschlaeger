@@ -1,22 +1,22 @@
-# I'm Erik, I write software and I build and fly drones
-## I am based in Berlin and work as a software architect
+# I'm Erik, I write software and build drones
+## I am based in Berlin and by day I work as a software architect
 
-### I also like
+### I like
 - technical excellence
 - edge computing
 - electronics & microcontroller
 - computer vision & image processing
 - automation & everything as code
-- linux
+- Linux
 
-### I am working on
+### I am currently working on
 - a control system for my quadcopter testbench with [dRehmFlight](https://github.com/eriklautenschlaeger/dRehmFlight) - next step is GPS denied flight
 - setting up a hexacopter workbench with [px4](https://docs.px4.io/main/en/) to dabble around with mission control software
 - getting my ham radio license :-)
 
-### Currently I am looking into
+### At the moment I am looking into
 - Java
 - Proxmox
 
 ### You can reach me at
-* [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
+- [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
