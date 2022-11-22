@@ -20,3 +20,5 @@
 
 ### You can reach me at
 - [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
+- [Researchgate](https://www.researchgate.net/profile/Erik-Lautenschlaeger)
+- Discord: thatsnomoon#3350
