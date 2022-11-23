@@ -1,5 +1,5 @@
 # I'm Erik, I write software and build drones
-## I am based in Berlin and by day I work as a software architect
+## I am based in Berlin and work as a software architect
 
 ### I like
 - technical excellence
