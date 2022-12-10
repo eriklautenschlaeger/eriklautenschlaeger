@@ -12,7 +12,7 @@
 ### I am currently working on
 - a control system for my quadcopter testbench with [dRehmFlight](https://github.com/eriklautenschlaeger/dRehmFlight) - next step is GPS denied flight
 - setting up a hexacopter workbench with [px4](https://docs.px4.io/main/en/) to dabble around with mission control software
-- a [paper](https://gist.github.com/eriklautenschlaeger/16f6f9918b6c4e2bdfbd82f1c97c429d) on test driven development in machine learning for [IoTBDS 2023](https://iotbds.scitevents.org/)
+- a [paper](https://gist.github.com/eriklautenschlaeger/16f6f9918b6c4e2bdfbd82f1c97c429d) on testing in machine learning for [ICICT 2023](https://icict.co.uk/)
 - getting my ham radio license :-)
 
 ### At the moment I am looking into
