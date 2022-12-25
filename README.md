@@ -1,24 +1,25 @@
 # I'm Erik, I write software and build drones
 ## I am based in Berlin and work as a software architect
 
-### I like
+### I like...
 - technical excellence
-- edge computing
+- edge computing & networking
 - electronics & microcontroller
 - computer vision & image processing
 - everything as code
 - Linux
 
-### I am currently working on
-- a control system for my quadcopter testbench with [dRehmFlight](https://github.com/eriklautenschlaeger/dRehmFlight) - next step is GPS denied flight
-- setting up a hexacopter workbench with [px4](https://docs.px4.io/main/en/) to dabble around with mission control software
-- a [paper](https://gist.github.com/eriklautenschlaeger/16f6f9918b6c4e2bdfbd82f1c97c429d) on testing in machine learning for [ICICT 2023](https://icict.co.uk/)
-- getting my ham radio license :-)
+### I am currently...
+- building a 7" long range FPV quadcopter
+- working on a [paper](https://gist.github.com/eriklautenschlaeger/16f6f9918b6c4e2bdfbd82f1c97c429d) on testing in machine learning for [ICICT 2023](https://icict.co.uk/)
+- getting my ham radio license :)
 
-### At the moment I am looking into
-- Java
-- Proxmox
+### In my free time I...
+- fly FPV drones
+- work on my homelab
+- play chess
 
-### You can reach me at
+### You can reach me at...
 - [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
 - [ResearchGate](https://www.researchgate.net/profile/Erik-Lautenschlaeger)
+- [Chess.com](https://www.chess.com/member/erikbln) <- Challenge me! :) 
