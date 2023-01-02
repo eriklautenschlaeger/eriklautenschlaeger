@@ -15,11 +15,10 @@
 - getting my ham radio license :)
 
 ### In my free time I...
-- fly FPV drones
+- build & fly FPV drones
 - work on my homelab
-- play chess
+- play [chess](https://www.chess.com/member/erikbln) <- Challenge me! :) 
 
 ### You can reach me at...
 - [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
 - [ResearchGate](https://www.researchgate.net/profile/Erik-Lautenschlaeger)
-- [Chess.com](https://www.chess.com/member/erikbln) <- Challenge me! :) 
