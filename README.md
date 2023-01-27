@@ -11,7 +11,6 @@
 
 ### I am currently...
 - building a 7" long range FPV quadcopter
-- working on a [paper](https://gist.github.com/eriklautenschlaeger/16f6f9918b6c4e2bdfbd82f1c97c429d) on testing in machine learning for [ICICT 2023](https://icict.co.uk/)
 - getting my ham radio license :)
 
 ### In my free time I...
