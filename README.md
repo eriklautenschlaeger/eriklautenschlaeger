@@ -16,7 +16,7 @@
 ### In my free time I...
 - build & fly FPV drones
 - work on my homelab
-- play [chess](https://www.chess.com/member/erikbln) <- Challenge me! :) 
+- play [chess](https://www.chess.com/member/thats_no_moon) <- Challenge me! :) 
 
 ### You can reach me at...
 - [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
