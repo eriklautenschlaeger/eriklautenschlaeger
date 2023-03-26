@@ -7,15 +7,15 @@
 - electronics & microcontroller
 - computer vision & image processing
 - everything as code
-- Linux
+- GNU/Linux & free software
 
 ### I am currently...
 - building a 7" long range FPV quadcopter
 - getting my ham radio license :)
 
 ### In my free time I...
-- build & fly FPV drones
-- work on my homelab
+- build & fly drones
+- work on my homelab (Proxmox...)
 - play [chess](https://www.chess.com/member/thats_no_moon) <- Challenge me! :) 
 
 ### You can reach me at...
