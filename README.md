@@ -2,12 +2,12 @@
 ## I am based in Berlin and work as a software architect
 
 ### I like...
-- technical excellence
+- C & Python
+- GNU/Linux & free software
 - edge computing & networking
 - electronics & microcontroller
 - computer vision & image processing
 - everything as code
-- GNU/Linux & free software
 
 ### I am currently...
 - building a 7" long range FPV quadcopter
