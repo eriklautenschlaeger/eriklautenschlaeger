@@ -19,4 +19,4 @@
 - play [chess](https://www.chess.com/member/thats_no_moon) <- Challenge me! :)
 - Sail
 
-## Connect with me on [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
+### -> Connect with me on [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
