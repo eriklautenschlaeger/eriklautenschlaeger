@@ -1,5 +1,5 @@
 # I'm Erik, I write software and build drones
-## I am based in Berlin and work as a software architect
+## I am based in Germany and work as a software architect
 
 ### I like...
 - C & Python
@@ -16,8 +16,7 @@
 ### In my free time I...
 - build & fly drones
 - work on my homelab (Proxmox...)
-- play [chess](https://www.chess.com/member/thats_no_moon) <- Challenge me! :) 
+- play [chess](https://www.chess.com/member/thats_no_moon) <- Challenge me! :)
+- Sail
 
-### You can reach me at...
-- [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
-- [ResearchGate](https://www.researchgate.net/profile/Erik-Lautenschlaeger)
+## Connect with me on [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
