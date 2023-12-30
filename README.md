@@ -10,13 +10,13 @@
 - everything as code
 
 ### I am currently...
+- refitting my boat
 - building a 7" long range FPV quadcopter
-- getting my ham radio license :)
 
 ### In my free time I...
 - build & fly drones
 - work on my homelab (Proxmox...)
 - play [chess](https://www.chess.com/member/thats_no_moon) <- Challenge me! :)
-- Sail
+- sail
 
 ### -> Connect with me on [LinkedIn](https://www.linkedin.com/in/eriklautenschlaeger/)
