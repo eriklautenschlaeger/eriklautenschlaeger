@@ -9,10 +9,6 @@
 - computer vision & image processing
 - everything as code
 
-### I am currently...
-- refitting my boat
-- building a 7" long range FPV quadcopter
-
 ### In my free time I...
 - build & fly drones
 - work on my homelab (Proxmox...)
